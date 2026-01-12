@@ -34726,7 +34726,7 @@
                 "EventReplacement": {
                     "ReplacementType": "Replace",
                     "Target": "REPLACEEVENTNAME",
-                    "Replacement": "Microsoft.XboxLive.T1945255835.leve35Event"
+                    "Replacement": "Microsoft.XboxLive.T1945255835.level35Event"
                 },
                 "MetaDataReplacement": {
                     "ReplacementType": "Replace",
