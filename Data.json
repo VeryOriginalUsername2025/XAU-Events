@@ -22949,7 +22949,7 @@
                 "MetaDataReplacement": {
                     "ReplacementType": "Replace",
                     "Target": "REPLACEMETADATA",
-                    "Replacement": "{\"f\":{\"baseData\":{\"f\":{\"properties\":{\"f\":{\"BuildNum\":4,\"CarBucket\":4,\"ManufacturerId\":4,\"ModelId\":4,\"PlayerCount\":4,\"Track\":4}}}}},\"measurements\":{\"f\":{\"Distance\":6,\"DistanceDelta\":6}}}}"
+                    "Replacement": "{\"f\":{\"baseData\":{\"f\":{\"properties\":{\"f\":{\"BuildNum\":4,\"CarBucket\":4,\"ManufacturerId\":4,\"ModelId\":4,\"PlayerCount\":4,\"Track\":4}}}}},\"measurements\":{\"f\":{\"Distance\":6,\"DistanceDelta\":6}"
                 },
                 "DataReplacement": {
                     "ReplacementType": "Replace",
@@ -23595,7 +23595,7 @@
                 "MetaDataReplacement": {
                     "ReplacementType": "Replace",
                     "Target": "REPLACEMETADATA",
-                    "Replacement": "{\"f\":{\"baseData\":{\"f\":{\"properties\":{\"f\":{\"BuildNum\":4,\"CarBucket\":4,\"HasHotWheelsGrade\":4,\"IsSkillSong\":4,\"NumChainedSkills\":4,\"Payout\":4,\"PlayerCarId\":4,\"PlayerCarManufacturerId\":4,\"Track\":4}}},\"measurements\":{\"f\":{\"ChainTimer\":6,\"Multiplier\":6}}}}"
+                    "Replacement": "{\"f\":{\"baseData\":{\"f\":{\"properties\":{\"f\":{\"BuildNum\":4,\"CarBucket\":4,\"HasHotWheelsGrade\":4,\"IsSkillSong\":4,\"NumChainedSkills\":4,\"Payout\":4,\"PlayerCarId\":4,\"PlayerCarManufacturerId\":4,\"Track\":4}}},\"measurements\":{\"f\":{\"ChainTimer\":6,\"Multiplier\":6}}}"
                 },
                 "DataReplacement": {
                     "ReplacementType": "Replace",
@@ -28896,12 +28896,12 @@
                 "Replacement": {
                     "ReplacementType": "Replace",
                     "Target": "REPLACETITLE",
-                    "Replacement": "Microsoft.XboxLive.T1696012554.LoekMasterAchievement"
+                    "Replacement": "Microsoft.XboxLive.T1696012554.LOEKMasterAchievement"
                 },
                 "Replacement1": {
                     "ReplacementType": "Replace",
                     "Target": "REPLACENAME",
-                    "Replacement": "LoekMasterAchievement"
+                    "Replacement": "LOEKMasterAchievement"
                 }
             },
             "43": {
