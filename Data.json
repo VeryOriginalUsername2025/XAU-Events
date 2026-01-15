@@ -7692,7 +7692,7 @@
     "2095867988": {
         "FullySupported": true,
         "Achievements": {
-            "1": {
+            "3": {
                 "CriteriaReplacement": {
                     "ReplacementType": "Replace",
                     "Target": "REPLACECRITERIAEW1",
@@ -7706,14 +7706,14 @@
                     "Replacement": "2"
                 }
             },
-            "3": {
+            "4": {
                 "CriteriaReplacement": {
                     "ReplacementType": "Replace",
                     "Target": "REPLACECRITERIAEW1",
                     "Replacement": "3"
                 }
             },
-            "4": {
+            "1": {
                 "CriteriaReplacement": {
                     "ReplacementType": "Replace",
                     "Target": "REPLACECRITERIAEW1",
@@ -23289,7 +23289,7 @@
                 "MetaDataReplacement": {
                     "ReplacementType": "Replace",
                     "Target": "REPLACEMETADATA",
-                    "Replacement": "{\"f\":{\"baseData\":{\"f\":{\"properties\":{\"f\":{\"BarnFindsRestored\":4,\"BonusBoardsSmashed\":0,\"BucketListsCompleted\":4,\"ChampionshipsCompleted\":4,\"IslandStarsEarnt\":4,\"RaceEventsCompleted\":4,\"RoadsDriven\":4}}}}"
+                    "Replacement": "{\"f\":{\"baseData\":{\"f\":{\"properties\":{\"f\":{\"BarnFindsRestored\":4,\"BonusBoardsSmashed\":4,\"BucketListsCompleted\":4,\"ChampionshipsCompleted\":4,\"IslandStarsEarnt\":4,\"RaceEventsCompleted\":4,\"RoadsDriven\":4}}}}"
                 },
                 "DataReplacement": {
                     "ReplacementType": "Replace",
@@ -23306,7 +23306,7 @@
                 "MetaDataReplacement": {
                     "ReplacementType": "Replace",
                     "Target": "REPLACEMETADATA",
-                    "Replacement": "{\"f\":{\"baseData\":{\"f\":{\"properties\":{\"f\":{\"BarnFindsRestored\":4,\"BonusBoardsSmashed\":0,\"BucketListsCompleted\":4,\"ChampionshipsCompleted\":4,\"IslandStarsEarnt\":4,\"RaceEventsCompleted\":4,\"RoadsDriven\":4}}}}"
+                    "Replacement": "{\"f\":{\"baseData\":{\"f\":{\"properties\":{\"f\":{\"BarnFindsRestored\":4,\"BonusBoardsSmashed\":4,\"BucketListsCompleted\":4,\"ChampionshipsCompleted\":4,\"IslandStarsEarnt\":4,\"RaceEventsCompleted\":4,\"RoadsDriven\":4}}}}"
                 },
                 "DataReplacement": {
                     "ReplacementType": "Replace",
@@ -23357,7 +23357,7 @@
                 "MetaDataReplacement": {
                     "ReplacementType": "Replace",
                     "Target": "REPLACEMETADATA",
-                    "Replacement": "{\"f\":{\"baseData\":{\"f\":{\"properties\":{\"f\":{\"BarnFindsRestored\":4,\"BonusBoardsSmashed\":0,\"BucketListsCompleted\":4,\"ChampionshipsCompleted\":4,\"IslandStarsEarnt\":4,\"RaceEventsCompleted\":4,\"RoadsDriven\":4}}}}"
+                    "Replacement": "{\"f\":{\"baseData\":{\"f\":{\"properties\":{\"f\":{\"BarnFindsRestored\":4,\"BonusBoardsSmashed\":4,\"BucketListsCompleted\":4,\"ChampionshipsCompleted\":4,\"IslandStarsEarnt\":4,\"RaceEventsCompleted\":4,\"RoadsDriven\":4}}}}"
                 },
                 "DataReplacement": {
                     "ReplacementType": "Replace",
@@ -23374,7 +23374,7 @@
                 "MetaDataReplacement": {
                     "ReplacementType": "Replace",
                     "Target": "REPLACEMETADATA",
-                    "Replacement": "{\"f\":{\"baseData\":{\"f\":{\"properties\":{\"f\":{\"BarnFindsRestored\":4,\"BonusBoardsSmashed\":0,\"BucketListsCompleted\":4,\"ChampionshipsCompleted\":4,\"IslandStarsEarnt\":4,\"RaceEventsCompleted\":4,\"RoadsDriven\":4}}}}"
+                    "Replacement": "{\"f\":{\"baseData\":{\"f\":{\"properties\":{\"f\":{\"BarnFindsRestored\":4,\"BonusBoardsSmashed\":4,\"BucketListsCompleted\":4,\"ChampionshipsCompleted\":4,\"IslandStarsEarnt\":4,\"RaceEventsCompleted\":4,\"RoadsDriven\":4}}}}"
                 },
                 "DataReplacement": {
                     "ReplacementType": "Replace",
@@ -23391,7 +23391,7 @@
                 "MetaDataReplacement": {
                     "ReplacementType": "Replace",
                     "Target": "REPLACEMETADATA",
-                    "Replacement": "{\"f\":{\"baseData\":{\"f\":{\"properties\":{\"f\":{\"BarnFindsRestored\":4,\"BonusBoardsSmashed\":0,\"BucketListsCompleted\":4,\"ChampionshipsCompleted\":4,\"IslandStarsEarnt\":4,\"RaceEventsCompleted\":4,\"RoadsDriven\":4}}}}"
+                    "Replacement": "{\"f\":{\"baseData\":{\"f\":{\"properties\":{\"f\":{\"BarnFindsRestored\":4,\"BonusBoardsSmashed\":4,\"BucketListsCompleted\":4,\"ChampionshipsCompleted\":4,\"IslandStarsEarnt\":4,\"RaceEventsCompleted\":4,\"RoadsDriven\":4}}}}"
                 },
                 "DataReplacement": {
                     "ReplacementType": "Replace",
@@ -23408,7 +23408,7 @@
                 "MetaDataReplacement": {
                     "ReplacementType": "Replace",
                     "Target": "REPLACEMETADATA",
-                    "Replacement": "{\"f\":{\"baseData\":{\"f\":{\"properties\":{\"f\":{\"BarnFindsRestored\":4,\"BonusBoardsSmashed\":0,\"BucketListsCompleted\":4,\"ChampionshipsCompleted\":4,\"IslandStarsEarnt\":4,\"RaceEventsCompleted\":4,\"RoadsDriven\":4}}}}"
+                    "Replacement": "{\"f\":{\"baseData\":{\"f\":{\"properties\":{\"f\":{\"BarnFindsRestored\":4,\"BonusBoardsSmashed\":4,\"BucketListsCompleted\":4,\"ChampionshipsCompleted\":4,\"IslandStarsEarnt\":4,\"RaceEventsCompleted\":4,\"RoadsDriven\":4}}}}"
                 },
                 "DataReplacement": {
                     "ReplacementType": "Replace",
@@ -23535,7 +23535,7 @@
                     "Replacement": "{\"baseType\":\"Microsoft.XboxLive.InGame\",\"baseData\":{\"name\":\"RivalsEverywhereEnd\",\"serviceConfigId\":\"19020100-9575-4c2b-9916-3d664ce1dfab\",\"playerSessionId\":\"11111111-1111-1111-1111-111111111111\",\"titleId\":\"1289871275\",\"userId\":\"REPLACEXUID\",\"ver\":1,\"properties\":{\"BeatenRival\":0,\"BuildNum\":156858,\"CarBaseCost\":1000000,\"CarClass\":5,\"CarId\":2734,\"CoopSession\":0,\"LocationName\":\"surfers\",\"ManufacturerId\":156,\"MedalEarned\":\"Gold\",\"Track\":552,\"Type\":\"DangerSign\",\"UniqueId\":\"17A17SurfersParkJump\"},\"measurements\":{\"MassKG\":1351.709228515625,\"Score\":295.13330078125}}}"
                 }
             },
-            "403": {
+            "52": {
                 "EventReplacement": {
                     "ReplacementType": "Replace",
                     "Target": "REPLACEEVENTFH3",
@@ -28386,13 +28386,6 @@
                     "ReplacementType": "Replace",
                     "Target": "REPLACEINDEX",
                     "Replacement": 2
-                }
-            },
-            "15": {
-                "Replacement": {
-                    "ReplacementType": "Replace",
-                    "Target": "REPLACEINDEX",
-                    "Replacement": 43
                 }
             }
         }
